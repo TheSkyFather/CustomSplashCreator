@@ -1,5 +1,5 @@
 # Instruction to use CustomSplashCreator. 
-* Script only for a/b device(Redmi K40; Poco f3; Redmi K30; Poco f2; redmi k30 pro, poco f2 pro)!!!
+* Script only for a/b device(Redmi K40; Poco F3; Mi 11x; Redmi K30; Poco F2; redmi k30 pro, poco F2 pro)!!!
 1. Unpack the archive to any place convenient for you. 
 2. Go to the CSC folder
 3. To the pics folder, throw your pictures, observing the numbering order. 
