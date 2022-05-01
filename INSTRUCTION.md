@@ -1,5 +1,5 @@
 # Instruction to use CustomSplashCreator
-##Script onle for a/b device!!! 
+#Script onle for a/b device!!! 
 1. Unpack the archive to any place convenient for you. 
 2. Go to the CSC folder
 3. To the pics folder, throw your pictures, observing the numbering order. 
